@@ -1,0 +1,33 @@
+name: Auto Update IPTV SPORT
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # update tiap 6 jam
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Dependency
+        run: pip install requests
+
+      - name: Generate SPORT Playlist
+        run: python tools/generate_sport_split.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add playlist_bola.m3u playlist_sport.m3u
+          git commit -m "Auto update IPTV SPORT playlist" || echo "No changes"
+          git push
