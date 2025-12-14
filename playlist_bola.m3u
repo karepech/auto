@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="EVENT 14/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 21:30 WIB Jordania vs Irak
 #https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1 group-title="EVENT 14/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 18:30 WIB Milan vs Sassuolo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 group-title="EVENT 14/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 21:00 WIB Udinese vs Napoli
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 group-title="EVENT 14/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 21:00 WIB Fiorentina vs Hellas Verona
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 group-title="EVENT 15/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 00:00 WIB Genoa vs Internazionale
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 group-title="EVENT 15/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Bologna vs Juventus
