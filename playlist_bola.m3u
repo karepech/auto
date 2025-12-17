@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 21:30 WIB Maroko vs Uni Emirat Arab
 
-#EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://shorter.me/CHGVQ", 02:00 WIB AFC vs NEC
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League 1
 #EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", B2 LALIGA 1
 #EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", B3 Serie A 1
