@@ -85,13 +85,3 @@ http://stream.radiojar.com/yg8ne2v80k8uv
 http://stream.radiojar.com/9k28wsbu5k8uv
 #EXTINF:-1 tvg-logo="https://iili.io/JmSaJF1.png" group-title="RADIO",Pro 1 RRI Bandung
 https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
-#EXTINF:-1 tvg-id="tf1..fra.it" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/512px-TF1_logo_2006.svg.png",📺 TF1 (FRA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="sky.sports.f1..ger.it" group-title="SPORT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",📺 Sky Sports F1 (GER)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="nba.tv..pt.it" group-title="SPORT" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/36d1bbd4b0144a19bdb6ec2a834a45b9/version/0",📺 NBA TV (PT)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="dazn.f1..esp.it" group-title="SPORT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",📺 DAZN F1 (ESP)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="dazn.pga..eng.it" group-title="INTRATTENIMENTO" tvg-logo="https://insidegolf.ca/images/18.01.27-PGATour-DAZN.jpg",📺 DAZN PGA (ENG)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
