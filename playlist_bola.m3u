@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT 018/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 23:00 WIB Jordania vs Maroko
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1 group-title="EVENT 019/DESEMBER/2025" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2316.png", 02:00 WIB Napoli vs Milan
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2316.png", 02:00 WIB Bologna vs Internazionale
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="EVENT 018/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League 1
-#EXTINF:-1 group-title="EVENT 018/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", B2 LALIGA 1
-#EXTINF:-1 group-title="EVENT 018/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", B3 Serie A 1
-#EXTINF:-1 group-title="EVENT 018/DESEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", B4 Bundesliga 1
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  03:00 WIB Swansea City vs Wrexham
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="EVENT 019/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League 1
+#EXTINF:-1 group-title="EVENT 019/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", B2 LALIGA 1
+#EXTINF:-1 group-title="EVENT 019/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", B3 Serie A 1
+#EXTINF:-1 group-title="EVENT 019/DESEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", B4 Bundesliga 1
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/Kc6R4Dv.png", A1 V-League 2025-2026
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/IxVCR", A1 Turkish Volleyball League
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League 1
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="Sports",Soccer Channel 
