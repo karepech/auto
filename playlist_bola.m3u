@@ -1,18 +1,30 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2316.png", 02:00 WIB Bologna vs Internazionale
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  03:00 WIB Swansea City vs Wrexham
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persebaya Surabaya vs Borneo
+http://filex.tv:8080//live/shafiq02/1234/302264.ts
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persebaya Surabaya vs Borneo
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persebaya Surabaya vs Borneo
+https://shorter.me/Of9Mf
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB AFC Bournemouth vs Burnley
+https://shorter.me/mROE6
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  19:30 WIB Southampton vs Coventry City
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 group-title="EVENT 019/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League 1
-#EXTINF:-1 group-title="EVENT 019/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", B2 LALIGA 1
-#EXTINF:-1 group-title="EVENT 019/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", B3 Serie A 1
-#EXTINF:-1 group-title="EVENT 019/DESEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", B4 Bundesliga 1
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Ipswich Town vs Sheffield Wednesday
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="EVENT 021/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 00:00 WIB Lazio vs Cremonese
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="EVENT 021/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Juventus vs Roma
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League 1
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", B2 LALIGA 1
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", B3 Serie A 1
+#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", B4 Bundesliga 1
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/Kc6R4Dv.png", A1 V-League 2025-2026
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/IxVCR", A1 Turkish Volleyball League
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League 1
-
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI SUPER LEAGUE
+#http://filex.tv:8080//live/shafiq02/1234/302264.ts
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="Sports",Soccer Channel 
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="Sports",Soccer Channel V+
