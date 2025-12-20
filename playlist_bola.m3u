@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persebaya Surabaya vs Borneo
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
-#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persebaya Surabaya vs Borneo
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persebaya Surabaya vs Borneo
-https://shorter.me/Of9Mf
-#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB AFC Bournemouth vs Burnley
-https://shorter.me/mROE6
-#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  19:30 WIB Southampton vs Coventry City
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 group-title="EVENT 020/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Ipswich Town vs Sheffield Wednesday
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 group-title="EVENT 021/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 00:00 WIB Lazio vs Cremonese
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 group-title="EVENT 021/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Juventus vs Roma
