@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT 021/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persib vs Bhayangkara
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
-#EXTINF:-1 group-title="EVENT 021/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persib vs Bhayangkara
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTINF:-1 group-title="EVENT 021/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persib vs Bhayangkara
-https://shorter.me/mviHP
-#EXTINF:-1 group-title="EVENT 021/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 18:30 WIB Cagliari vs Pisa
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 group-title="EVENT 021/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 21:00 WIB Sassuolo vs Torino
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 00:00 WIB Fiorentina vs Udinese
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
 #EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Genoa vs Atalanta
