@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSBS Biak Numfor vs Bali United
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSBS Biak Numfor vs Bali United
-https://shorter.me/pW9Do
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSBS Biak Numfor vs Bali United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Semen Padang vs Persija
 http://filex.tv:8080//live/shafiq02/1234/302264.ts
 #EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Semen Padang vs Persija
@@ -19,7 +13,9 @@ https://shorter.me/P5XII
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/IxVCR", A2 Turkish Volleyball League
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI SUPER LEAGUE
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 002 BRI SUPER LEAGUE
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 002 BRI SUPER LEAGUE
 #http://filex.tv:8080//live/shafiq02/1234/302264.ts
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="Sports",Soccer Channel 
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36

@@ -8,7 +8,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="Sports", SkySportMotoGP
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="Sports", SkySportF1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" , NBA TV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
+http://line.trx-ott.com/play/live.php?mac=00:1a:79:bc:D3:35&stream=1955135&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvznZOmF1jlCjF-2OmFmy-7xGC1hDyAq8gmQ&s" group-title="Entertainment & LifeStyle",PSJ TV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtOF852NSJuMKVeASI2p5tp1o-gU0XrOD1A&s" group-title="Entertainment & LifeStyle",ONE
 #EXTINF:-1 tvg-id="CGTN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg" group-title="News",CGTN 
