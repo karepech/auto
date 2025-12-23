@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persijap vs PSIM Yogyakarta
-#EXTVLCOPT:http-origin=https://ppdd16.plaifrdcikf.shop/
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persijap vs PSIM Yogyakarta
-https://shorter.me/Tskua
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persijap vs PSIM Yogyakarta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League
 #EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", B2 LALIGA 1
 #EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", B3 Serie A 1
@@ -13,8 +7,6 @@ https://shorter.me/Tskua
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/IxVCR", A2 Turkish Volleyball League
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 002 BRI SUPER LEAGUE
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 002 BRI SUPER LEAGUE
 http://filex.tv:8080//live/shafiq02/1234/302264.ts
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="Sports",Soccer Channel 1
