@@ -3,6 +3,22 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Middlesbrough vs Blackburn Rovers
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Coventry City vs Swansea City
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Leicester City vs Watford
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Norwich City vs Charlton Athletic
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Oxford United vs Southampton
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Stoke City vs Preston North End
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB West Bromwich Albion vs Bristol City
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Portsmouth vs Queens Park Rangers
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  22:00 WIB Sheffield Wednesday vs Hull City
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTINF:-1 group-title="EVENT 027/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png",  00:30 WIB Wrexham vs Sheffield United
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 group-title="EVENT 026/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", B1 Premier League
